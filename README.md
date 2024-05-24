@@ -14,6 +14,7 @@ specified limitations.
 
 ![Diagram Money Laundering](figure%201%20ML.jpg)
 ![Diagram Corruption](figure%201%20corruption.jpg)
+
 **Figure:** Comparison between Google search topic _Money Laundering / Corruption_ and mean of money laundering / corruption indicators. Each dot represents a country with a relative Google search volume (x-axis) and a mean of all available indicators (y-axis). The dot size relates to the number of available indicators. The green line shows a cubic smoothing spline fitted to the data and the red line a linear regression with 95 % confidence intervals and slope with p-value (null-hypothesis: no linear dependence) as indicated below the graph. Also printed below the graph are computed Pearson (r) and Kendall (tau) correlation coefficients with corresponding p-values (null-hypothesis: no positive correlation, one-sided test).
 
 ## Input data
